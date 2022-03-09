@@ -1,0 +1,15 @@
+{
+    "main": "dist/index.js",
+    "devDependencies": {
+        "@types/node": "^17.0.21",
+        "typescript": "^4.6.2"
+    },
+    "dependencies": {
+        "@rigidity/bls-signatures": "^2.0.2",
+        "@rigidity/chia": "^1.5.0",
+        "@rigidity/clvm": "^3.1.0",
+        "@types/dotenv": "^8.2.0",
+        "bip39": "^3.0.4",
+        "dotenv": "^16.0.0"
+    }
+}
